@@ -1,0 +1,26 @@
+name: a
+version: 1
+main: eu.matejkormuth.worldprocessor.WorldProcessor
+
+commands:
+  kokot:
+    name: kokot
+    usage: kokot
+  kokot1:
+    name: kokot1
+  kokot2:
+    name: kokot2
+  kokot3:
+    name: kokot3
+  kokot4:
+    name: kokot4
+  kokot5:
+    name: kokot5
+  kokot6:
+    name: kokot6
+  kokot7:
+    name: kokot7
+  kokot8:
+    name: kokot8
+  kokot9:
+    name: kokot9
